@@ -12,15 +12,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🎓 **3rd Year Computer Engineering Student** passionate about innovation and technology
+🎓 Third-Year Computer Engineering Student with a passion for innovation and technology
 
-🔬 **Research Areas:** Machine Learning • Deep Learning • Computer Vision • Cybersecurity
+🔬 Research Interests: Machine Learning • Deep Learning • Computer Vision • Cybersecurity
 
-🏆 **Current Focus:** Building intelligent systems that make a difference
+🏆 Current Focus: Developing intelligent systems that make a real-world impact
 
-🌱 **Learning:** Advanced AI architectures, quantum computing, and ethical hacking
+🌱 Currently Exploring: Advanced AI architectures and ethical hacking
 
-⚡ **Fun fact:** I debug code faster than I can solve a Rubik's cube!
 
 <br clear="right"/>
 

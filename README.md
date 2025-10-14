@@ -72,13 +72,15 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MerveSevim44&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MerveSevim44&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&t=20241014)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MerveSevim44&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MerveSevim44&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MerveSevim44&theme=tokyo-night&bg_color=1a1b27&color=a9b1d6&line=f7768e&point=bb9af7&area=true&hide_border=true)
+
+
 
 </div>
 

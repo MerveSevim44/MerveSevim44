@@ -71,7 +71,7 @@ location: Kocaeli / İstanbul 🇹🇷
 
 <table>
 <tr>
-<td width="50%">
+<td width="20%">
 
 **🧠 Academic Memory Assistant**
 > Multimodal RAG System
@@ -87,20 +87,35 @@ location: Kocaeli / İstanbul 🇹🇷
 [→ View Repository](https://github.com/MerveSevim44)
 
 </td>
-<td width="50%">
+<td width="20%">
 
-**💚 Minoa — Health Tracking App**
+**🛡️ MCP Guard — Security Framework**
+> AI Security Research Prototype
+
+- 🔌 4 MCP tool entegrasyonu: fetch, filesystem, memory, git
+- 🎯 6 kategori, 18+ saldırı pattern'i tespiti (regex tabanlı)
+- ✅ %100 standart saldırı tespit oranı, 5 bypass senaryosu analizi
+- 🗺️ v2 heuristic → v3 ML (DeBERTa) yol haritası
+
+`Python` `FastAPI` `MCP` `SQLite` `Jinja2`
+
+[→ View Repository](https://github.com/MerveSevim44/mcp-guard)
+
+
+<td width="20%">
+
+**🩺 MerhemAI — Health Care Assistant**
 > AI-Powered Mobile Application
 
-- 📱 Cross-platform: Android / iOS / Web
-- 🔐 Firebase Auth + Realtime Database
-- 🤖 AI-powered personal health coach
-- 📊 FL Chart data visualization
-- 🎨 Glassmorphism UI design
+- 📱 Cross-platform: React Native / Expo (iOS & Android)
+- 🤖 AI Engineering: Anthropic Claude + Groq + LangChain entegrasyonu
+- 💬 Twilio ile otomatik WhatsApp hatırlatıcıları + APScheduler
+- 📊 Scikit-learn tabanlı burnout skoru ve ML örüntü tespiti
 
-`Flutter` `Dart` `Firebase` `Provider`
+`Python` `FastAPI` `React Native` `Anthropic` `LangChain` `Twilio` `Scikit-learn`
 
-[→ View Repository](https://github.com/MerveSevim44/health-tracking-system)
+[→ View Repository](https://github.com/BehiyeBedir/merhem_ai)
+
 
 </td>
 </tr>
@@ -108,51 +123,7 @@ location: Kocaeli / İstanbul 🇹🇷
 
 <br>
 
-### 🗂️ Previous Work
 
-<table>
-<tr>
-<td width="33%">
-
-**🦷 Dental Caries Detection**
-> Medical AI · Computer Vision
-
-- U-Net segmentation architecture
-- **70% Dice Score** achieved
-- Medical image preprocessing pipeline
-
-`TensorFlow` `Keras` `OpenCV`
-
-</td>
-<td width="33%">
-
-**📝 LSTM Text Generation**
-> Deep Learning · NLP
-
-- Trained on **2.7M+ character** Tolstoy dataset
-- Embedding + **BiLSTM** architecture
-- Character-level generation model
-- Deployed with **Streamlit**
-
-`Python` `Keras` `Streamlit`
-
-</td>
-<td width="33%">
-
-**🤖 ML Projects Suite**
-> 5 Projects · CRISP-DM
-
-- Classification & Regression
-- Clustering & Association Rules
-- Anomaly Detection
-- AutoML + hyperparameter optimization
-
-`scikit-learn` `Pandas` `KNIME`
-
-</td>
-</tr>
-
-</table>
 
 ---
 
